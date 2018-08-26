@@ -1,4 +1,3 @@
-//Test for git
 const myWord = require('./hello2.js');
 
 function sayHello() {
